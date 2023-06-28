@@ -1,0 +1,9 @@
+body{
+  background: #f0f0f0;
+  cursor: pointer;
+  text: white; 
+}
+
+button{
+  display: flex; 
+}
